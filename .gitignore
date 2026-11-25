@@ -18,3 +18,7 @@ chroma_db/
 
 # Database HR Assistant
 02.HR_Assistant/data/
+
+# File generati da Chainlit
+02.HR_Assistant/.chainlit/
+02.HR_Assistant/chainlit.md
