@@ -1,0 +1,26 @@
+### Informazioni personali
+Nome: Marco Rossi
+Età: 28 anni
+Residenza: Milano
+Email: marco.rossi@email.com
+
+### Profilo professionale
+Sviluppatore software con 4 anni di esperienza nella progettazione e nello sviluppo di applicazioni web. Appassionato di tecnologia, programmazione e innovazione digitale. Abituato a lavorare in team e a gestire progetti rispettando scadenze e obiettivi.
+
+### Esperienza lavorativa
+Software Developer presso TechSolutions S.r.l. (2022 - 2026).
+Sviluppo di applicazioni web, manutenzione di software aziendali e collaborazione con team di sviluppo.
+Realizzazione di API e integrazione con database relazionali.
+
+### Competenze tecniche
+Python, Java, JavaScript, HTML, CSS, SQL, MySQL, Git, REST API, sviluppo backend e frontend.
+
+### Formazione
+Laurea triennale in Informatica presso l'Università degli Studi di Milano (2021).
+
+### Lingue
+Italiano: madrelingua.
+Inglese: livello B2.
+
+### Obiettivo professionale
+Crescere professionalmente come sviluppatore software, partecipando a progetti innovativi e lavorando con nuove tecnologie.
