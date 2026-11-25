@@ -15,3 +15,6 @@ chroma_db/
 # Configurazioni locali
 .DS_Store
 .vscode/
+
+# Database HR Assistant
+02.HR_Assistant/data/
