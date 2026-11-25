@@ -1,0 +1,16 @@
+# Ambiente virtuale
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Variabili e chiavi segrete
+.env
+
+# Database locale ChromaDB
+chroma_db/
+
+# Configurazioni locali
+.DS_Store
